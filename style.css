@@ -1,0 +1,125 @@
+.logoimg
+{
+    width: 200px;
+    height: auto;
+}
+.menu
+{
+    padding:10px 5px;
+    font-weight: bolder;
+}
+/*-------------part1-------*/
+.right_img
+{
+    position: absolute;
+    z-index: -1;
+    width:500px;
+    height:300px;
+    
+}
+.right_p
+{
+    font-family: unset;
+    position: relative;
+    margin-top: 71px;
+    left: 9px;
+    font-size: 37px;
+    color: white;
+    font-weight: bolder;
+    list-style: none;
+}
+.content
+{
+    font-size: 21px;
+    margin-top: 34px;
+    font-family: sans-serif;
+    color: darkgray;
+    text-indent: initial;
+}
+/*------------------part2------------*/
+.part2
+{
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    color: darkgray;
+
+}
+.discover
+{
+    margin-top: 35px;
+    text-align: center;
+    color: deepskyblue;
+    font-weight: bold;
+    font-size: 22px;
+}
+.img1
+{
+    height: 721px;
+    vertical-align: middle;
+    border-style: none;
+    width:439px;
+    margin-top: 40px;
+    border-radius: 25px;
+    position:relative;
+
+}
+.img2
+{
+    position: relative;
+    width: 633px;
+    border-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-top: 55px;
+    margin-left: 21px;
+}
+.img3
+{
+    position: relative;
+    width: 633px;
+    border-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-top: 55px;
+    margin-left: 21px;
+    height: 282px;
+}
+/*------------------------------------card------------------------*/
+.blog
+{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+    font-family: inherit;
+}
+.card_1
+{
+    width: 243px;
+    height: 215px;
+   
+   border-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius:25px;
+    border-bottom-left-radius:25px;
+    margin-left: 34px;
+}
+/*---------------------------footer---------------------*/
+.foter
+{
+    display:flex;
+    background-color:black;
+    color: white;
+    padding:10px 5px;
+    
+    
+
+    
+}
